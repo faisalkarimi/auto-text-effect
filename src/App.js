@@ -1,7 +1,8 @@
 import "./App.css";
+import AutoTextEffect from "./components/AutoTextEffect";
 
 function App() {
-  return <h1>Auto Text Effect</h1>;
+  return <AutoTextEffect />;
 }
 
 export default App;
